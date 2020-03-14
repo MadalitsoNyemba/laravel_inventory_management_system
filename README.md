@@ -39,4 +39,4 @@ http://127.0.0.1:8000/register
 ## Built with
 * [AdminBSB template](https://github.com/gurayyarar/AdminBSBMaterialDesign) -  for UI
 
-* [Laravel framework](https://laravel.com/)
+* [Laravel framework](https://laravel.com/) - version 7.0
