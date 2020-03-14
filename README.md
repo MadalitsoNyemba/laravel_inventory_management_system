@@ -37,6 +37,6 @@ http://127.0.0.1:8000/register
 * End of day email sent to admin to show that days' transactions
 
 ## Built with
-*[AdminBSB template](https://github.com/gurayyarar/AdminBSBMaterialDesign) -  for UI
+* [AdminBSB template](https://github.com/gurayyarar/AdminBSBMaterialDesign) -  for UI
 
-*[Laravel framework](https://laravel.com/)
+* [Laravel framework](https://laravel.com/)
