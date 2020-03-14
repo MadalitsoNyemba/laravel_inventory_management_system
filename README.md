@@ -27,6 +27,15 @@ Make sure you register a user first as it will require you to login
 ```
 http://127.0.0.1:8000/register
 ```
+
+## Features
+* Has two types of users, admin and seller.
+* Alerts users when product is below threshold.
+* Transaction reversal by admin.
+* Integrated Point-Of-Sale.
+* Expenditure vs income monthly report depicted by line graph
+* End of day email sent to admin to show that days' transactions
+
 ## Built with
 *[AdminBSB template](https://github.com/gurayyarar/AdminBSBMaterialDesign) -  for UI
 
