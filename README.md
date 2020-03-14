@@ -7,7 +7,7 @@
 ### Installing
  Clone this repository to your desired folder
  ```
- Clone
+git clone https://github.com/MadalitsoNyemba/inventory_management_system.git
  ```
 Create a database in your MySql server
 Import the sql dump into the created database
